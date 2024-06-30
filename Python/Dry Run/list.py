@@ -1,0 +1,9 @@
+a=[5,6,7,8,1,2,3]
+a.reverse()
+print(a)
+a.sort()
+a.append(56)
+print(max(a))
+a.insert(2,98)
+print(min(a))
+print(a)

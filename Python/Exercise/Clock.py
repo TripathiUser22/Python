@@ -1,0 +1,11 @@
+import time
+timea=time.strftime('%H:%M:%S:%A')
+print("The Time And Date is-->",timea)
+timea=time.strftime('%H')
+print("Hour is-->",timea)
+timea=time.strftime('%M')
+print("Minute is-->",timea)
+timea=time.strftime('%S')
+print("Second is-->",timea)
+timea=time.strftime('%A')
+print("Day is-->",timea)
